@@ -1,2 +1,3 @@
-# tech-instructions
-This repository is made as part of an assignment for the WCS 210 course
+# Numerical Analysis
+1. Do this
+2. Then do this
