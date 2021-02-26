@@ -46,7 +46,7 @@ Wait for the processing to finish and download the file on your computer:
 <br>
 <br>
 ### **4. Connect your phone to your computer**
-Using the charging cable connect your iPhone to your computer. Open the iTunes app on the computer and unlock your phone. You may get an alert like this:
+Open the iTunes app on your computer and using the charging cable connect your iPhone to the computer. Unlock the phone. You may receive an alert like this:
 <br>
 ![trust this computer](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-home-trust-computer-alert.jpg "Trust This Computer")
 <br>
