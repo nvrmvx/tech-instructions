@@ -78,7 +78,7 @@ In iTunes, click on the icon that appeared when you connected your smartphone:
 ![click on this device button](assets/step_5_1.jpg "Click On This Device Button")
 <br>
 <br>
-Select `Tones` from the `On My Revice` menu on the left side of the window:
+Select `Tones` from the `On My Device` menu on the left side of the window:
 <br>
 <br>
 ![select tones from the menu](assets/step_5_2.jpg "Select Tones from the Menu")
