@@ -97,7 +97,7 @@ After the file is uploaded you may disconnect your phone from the computer.
 On your iPhone go to the `Settings` > `Sounds & Haptics` > `Ringtone` and select your audio file from the ringtones’ list.
 <br>
 <br>
-![select your ringtone](assets/step_6_1.gif "Select Your Ringtone")
+<img src="assets/step_6_1.gif" alt="select your ringtone" width="400">
 <br>
 <br>
 Congratulations! You have successfully added a customized ringtone!
@@ -108,6 +108,6 @@ Congratulations! You have successfully added a customized ringtone!
 Open the `Phone` app on your phone. Open the contact page of the person you want to assign the ringtone to. Tap the `Edit` button in the top-right corner of the page. Scroll down until you see the `Ringtone` tab. Tap `Ringtone` and select the ringtone you want from the list. Tap `Done` and tap `Done` again to save your changes.
 <br>
 <br>
-![select your ringtone](assets/step_7_1.gif "Select Your Ringtone")
+<img src="assets/step_7_1.gif" alt="select your ringtone" width="400">
 <br>
 <br>
