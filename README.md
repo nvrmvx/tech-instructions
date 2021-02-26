@@ -1,6 +1,6 @@
 # How to Add Your Own Ringtone on an iPhone?
 ## You will need:
-* iPhone
+* iPhone with a charging cable
 * Computer (running Mac or Windows) with Internet access
 * The song that you want to be your ringtone
 
@@ -62,7 +62,7 @@ Wait for the processing to finish and download the file on your computer:
 Open the iTunes app on your computer and using the charging cable connect your iPhone to the computer. Unlock the phone. You may receive an alert like this:
 <br>
 <br>
-![trust this computer](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-home-trust-computer-alert.jpg "Trust This Computer")
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-home-trust-computer-alert.jpg" alt="trust this computer" width="500">
 <br>
 Taken from [Apple Support](https://support.apple.com/en-us/HT202778 "Apple Support")
 <br>
