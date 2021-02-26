@@ -25,8 +25,8 @@ Wait for the file to upload:
 <br>
 ![audio trimming upload](assests/step_2_2.jpg "Audio Trimming Upload")
 <br>
-### **3. Trim the file to be shorter than 40 seconds**
-Move the sliders on the left and right to select the part of the audio that you want for your ringtone. You may also use the `+` and `-` buttons next to `Start` and `End` to make your cut more precise:
+### **3. Trim the file**
+Move the sliders on the left and right to select the part of the audio that you want for your ringtone. You may also use the `+` and `-` buttons next to `Start` and `End` to make your cut more precise (Remember that the result has to be shorter than 40 seconds):
 <br>
 ![audio trimming sliders](assests/step_3_1.gif "Audio Trimming Sliders")
 <br>
