@@ -1,6 +1,7 @@
 # How to Add Your Own Ringtone on an iPhone?
 ## You will need:
-* Computer with Internet access
+* iPhone
+* Computer (running Mac or Windows) with Internet access
 * The song that you want to be your ringtone
 
 ## Steps:
