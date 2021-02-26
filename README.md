@@ -1,4 +1,4 @@
-# How to Add Your Own Ringtone on an iPhone?
+# How to Add Your Own Ringtone to an iPhone?
 ## You will need:
 * iPhone with a charging cable
 * Computer (running Mac or Windows) with Internet access
