@@ -5,6 +5,16 @@
 * Computer (running Mac or Windows) with Internet access
 * The song that you want to be your ringtone
 
+| Table of Contents |
+| --- |
+| [1. Install iTunes on your computer](#1-install-itunes-on-your-computer) |
+| [2. Choose the audio file for your ringtone](#2-choose-the-audio-file-for-your-ringtone) |
+| [3. Trim the audio and obtain the \*.m4r file](#3-trim-the-audio-and-obtain-the-m4r-file) |
+| [4. Connect your phone to the computer](#4-connect-your-phone-to-the-computer) |
+| [5. Upload the file to your phone](#5-upload-the-file-to-your-phone) |
+| [6. Select your new ringtone in the settings](#6-select-your-new-ringtone-in-the-settings) |
+| [7. _(optional)_ Assign a personal ringtone to your contacts](#7-optional-assign-a-personal-ringtone-to-your-contacts) |
+
 ## Steps:
 ### **1. Install iTunes on your computer**
 **If you are using Mac**: skip this step as iTunes is already installed on your device by default.
