@@ -1,9 +1,9 @@
 # How to Add Your Own Ringtone to an iPhone?
-## You will need:
-* iPhone 
-* Charging cable for your phone
-* Computer (running Mac or Windows) with Internet access
-* The song that you want to be your ringtone
+## You will need
+* _iPhone_
+* _Charging cable for your phone_
+* _Computer (running Mac or Windows) with Internet access_
+* _The song that you want to be your ringtone (accepted audio file types: \*.mp3, \*.wav, \*.wma, \*.ogg, \*.m4r, \*.3gpp, \*.opus, \*.m4a, \*.aac, \*.amr, \*.flac, \*.aiff, \*.ape)_
 
 | Table of Contents |
 | --- |
@@ -119,7 +119,7 @@ On your iPhone go to the `Settings` > `Sounds & Haptics` > `Ringtone` and select
 <img src="../assets/step_6_1.gif" alt="select your ringtone" width="400">
 <br>
 <br>
-Congratulations! You have successfully added a customized ringtone!
+_Congratulations! You have successfully added a customized ringtone!_
 <br>
 <br>
 
