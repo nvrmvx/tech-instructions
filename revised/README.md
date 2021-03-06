@@ -130,3 +130,10 @@ Open the `Phone` app on your phone. Open the contact page of the person you want
 <img src="../assets/step_7_1.gif" alt="select your ringtone" width="400">
 <br>
 <br>
+
+| Authors | Email |
+| --- | --- |
+| Aidana Bimykova | [aidana.bimykova@nu.edu.kz](mailto:aidana.bimykova@nu.edu.kz) |
+| Aray-Bibi Serikbay | [araybibi.serikbay@nu.edu.kz](mailto:araybibi.serikbay@nu.edu.kz) |
+| Daniyar Arstanov | [daniyar.arstanov@nu.edu.kz](mailto:daniyar.arstanov@nu.edu.kz) |
+| Nurmukhamed Zhanibek | [nurmukhamed.zhanibek@nu.edu.kz](mailto:nurmukhamed.zhanibek@nu.edu.kz) |
