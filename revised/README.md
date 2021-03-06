@@ -15,8 +15,7 @@
 | [6. Select your new ringtone in the settings](#6-select-your-new-ringtone-in-the-settings) |
 | [7. _(optional)_ Assign a personal ringtone to your contacts](#7-optional-assign-a-personal-ringtone-to-your-contacts) |
 
-## Steps:
-### **1. Install iTunes on your computer**
+## **1. Install iTunes on your computer**
 **If you are using Mac**: skip this step as iTunes is already installed on your device by default.
 <br>
 **If you are using Windows**: [install the latest version of iTunes](https://www.microsoft.com/en-us/p/itunes/9pb2mz1zmb1s "Install iTunes") as you see on the screenshots:
@@ -35,7 +34,7 @@ Wait for the download to finish, proceed with the installation by accepting term
 <br>
 <br>
 
-### **2. Choose the audio file for your ringtone**
+## **2. Choose the audio file for your ringtone**
 iTunes **does not** let us make files longer than 40 seconds into ringtones.
 <br>
 **If you already have an \*.m4r file that is shorter than 40 seconds** you may skip steps 2 and 3.
@@ -55,7 +54,7 @@ Wait for the upload progress bar to finish and proceed to the next step:
 <br>
 <br>
 
-### **3. Trim the audio and obtain the \*.m4r file**
+## **3. Trim the audio and obtain the \*.m4r file**
 Move the sliders on the left and right to select the part of the audio that you want for your ringtone. You may also use the `+` and `-` buttons next to `Start` and `End` to make your cut more precise (Remember that the resulting length has to be shorter than 40 seconds):
 <br>
 <br>
@@ -75,7 +74,7 @@ Wait for the processing to finish and download the file on your computer:
 <br>
 <br>
 
-### **4. Connect your phone to the computer**
+## **4. Connect your phone to the computer**
 Open the iTunes app on the computer and using the charging cable connect your iPhone to the computer.
 <br>
 Unlock the phone. You may receive an alert like this:
@@ -90,7 +89,7 @@ Click `Trust` and enter your iPhone password if you get prompted to do so.
 <br>
 <br>
 
-### **5. Upload the file to your phone**
+## **5. Upload the file to your phone**
 In iTunes, click on the icon that appeared when you connected your smartphone:
 <br>
 <br>
@@ -113,7 +112,7 @@ After the file is uploaded you may disconnect your phone from the computer.
 <br>
 <br>
 
-### **6. Select your new ringtone in the settings**
+## **6. Select your new ringtone in the settings**
 On your iPhone go to the `Settings` > `Sounds & Haptics` > `Ringtone` and select your audio file from the ringtones list.
 <br>
 <br>
@@ -124,7 +123,7 @@ Congratulations! You have successfully added a customized ringtone!
 <br>
 <br>
 
-### **7. _(optional)_ Assign a personal ringtone to your contacts**
+## **7. _(optional)_ Assign a personal ringtone to your contacts**
 Open the `Phone` app on your phone. Open the contact page of the person you want to assign the ringtone to. Tap the `Edit` button in the top-right corner of the page. Scroll down until you see the `Ringtone` tab. Tap `Ringtone` and select the ringtone you want from the list. Tap `Done` and tap `Done` again to save your changes.
 <br>
 <br>
