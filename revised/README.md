@@ -61,7 +61,7 @@ Move the sliders on the left and right to select the part of the audio that you 
 ![audio trimming sliders](../assets/step_3_1.gif "Audio Trimming Sliders")
 <br>
 <br>
-Select `m4r` from the dropdown menu next to `Output Format` and click `Crop >>`:
+**Select `m4r` from the dropdown menu next to `Output Format`** and click `Crop >>`:
 <br>
 <br>
 ![audio crop](../assets/step_3_2.gif "Audio Crop")
